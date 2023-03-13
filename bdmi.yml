@@ -1,0 +1,11 @@
+name: bdmi
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - jupyterlab
+  - tqdm
+  - scipy
+  - ipywidgets
+  - multiprocess
+prefix: /Users/kmt/miniconda3/envs/bdmi
