@@ -1,0 +1,16 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "test"
+  author: "Jane Doe"
+  date: "25/07/2022"
+  chapters:
+    - index.qmd
+    - slides.qmd
+    - bdmi.ipynb
+
+format:
+  html:
+    theme: default

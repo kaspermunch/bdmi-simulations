@@ -1,0 +1,15 @@
+project:
+  output-dir: _slides
+  render:
+    - index.qmd
+    - slides.qmd
+    - bdmi.ipynb
+
+
+title: "test"
+author: "Jane Doe"
+
+format:
+    revealjs:
+        smaller: true
+        theme: simple        
