@@ -6,8 +6,8 @@ project:
     - bdmi.ipynb
 
 
-title: "test"
-author: "Jane Doe"
+title: "BDMI sims"
+author: "Kasper Munch"
 
 format: clean-revealjs
 html-math-method:

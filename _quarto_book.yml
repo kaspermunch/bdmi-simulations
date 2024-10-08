@@ -14,3 +14,5 @@ book:
 format:
   html:
     theme: default
+    echo: false
+    number-depth: 1
